@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
-# This is a comment to test upload to GitHub
+
+# implemented as part of application based authentication
+
+gem 'devise'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
